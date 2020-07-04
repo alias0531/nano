@@ -1,3 +1,5 @@
+[![Full course video](https://imgur.com/4cQoWtb)](https://youtu.be/HAW09hYhw8c)
+
 # ROS와 물체인식을 이용한 자율주행 시스템
 
 ## <b> 주제 </b>
